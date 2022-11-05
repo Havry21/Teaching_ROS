@@ -1,0 +1,8 @@
+prefix=/home/dima/catkin_ws/devel
+
+Name: client-server
+Description: Description of client-server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
